@@ -1,0 +1,17 @@
+PROMGEN: Xilinx Prom Generator P.20131013
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+promgen -w -p mcs -c FF -o /home/changj/work/impact_workspace//fecv6_vmm3_top_ext_trg_24102200 -s 16384 -u 0000 /home/changj/work/impact_workspace/fecv6_vmm3_top_ext_trg_24102200.bit -spi 
+
+PROM /home/changj/work/impact_workspace/fecv6_vmm3_top_ext_trg_24102200.prm map: Tue Oct 22 16:34:13 2024
+
+Calculating PROM checksum with fill value ff
+
+Format        Mcs86 (32-bit)
+Size          16384K
+PROM start    0000:0000
+PROM end      00ff:ffff
+PROM checksum aebb3b42
+
+        Addr1        Addr2                     Date File(s)
+    0000:0000    0053:638b     Oct 22 16:33:30 2024 /home/changj/work/impact_workspace/fecv6_vmm3_top_ext_trg_24102200.bit

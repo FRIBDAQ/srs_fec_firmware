@@ -1,0 +1,11 @@
+# PROMGEN: Xilinx Prom Generator P.20131013
+# Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+SOFTWARE_VERSION P.20131013
+DATE            10/22/2024 - 16:34
+SOURCE          /home/changj/work/impact_workspace/fecv6_vmm3_top_ext_trg_24102200.mcs
+DEVICE          16384K
+DATA_WIDTH      1
+FILL_DATA       0xFF
+SIGNATURE       0xAEBB3B42
+START_ADDRESS   0x00000000 END_ADDRESS 0x0053638B DIRECTION_UP   "/home/changj/work/impact_workspace/fecv6_vmm3_top_ext_trg_24102200.bit" 6vlx130tff784
