@@ -4,3 +4,4 @@
 | 24102200 | First production version of the external trigger support firmware |
 | 25082705 | Added buffer flush feature for low rate events (vmmsc tag: [`25082705_firmware`](https://github.com/FRIBDAQ/vmmsc/releases/tag/25082705_firmware)) |
 
+See the instruction [here https://vmm-srs.docs.cern.ch/firmware/](https://vmm-srs.docs.cern.ch/firmware/)
